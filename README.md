@@ -193,11 +193,6 @@
 <br/><br/>
   <div align="center">
 
-
-<a href="https://github.com/aminexfrad"> 
- <img align="center" src="./images/city.gif" width="60%" align="center">   
-</a>
-
  
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/aminexfrad)
 
