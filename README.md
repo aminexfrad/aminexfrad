@@ -203,9 +203,6 @@
 
 <br/>
  
-<a href="https://github.com/aminexfrad"> 
- <img align="center" src="./images/citytheme.gif" width="60%" >   
-</a>
 </details>
 <a href="https://github.com/aminexfrad">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
