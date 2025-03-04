@@ -13,7 +13,7 @@
 </a>
 <p align="center">
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&width=700&lines=Software+Developer+Student+%7C+Junior+Full-Stack+Developer+%7C+;Management+IT+Support+Technician" alt="Typing SVG" /></a>
+
 
 <br/>
 
