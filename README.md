@@ -2,45 +2,21 @@
  <img align="center" src="./images/header.jpg" width="100%">    
 </a>
 <p align="center">
-
- 
- <!--Header-->
-
-
-<br/>
-<a href="https://github.com/aminexfrad"> 
- <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
-</a>
-<p align="center">
- 
-
-
-<br/>
-
-
-
-
-
 <!--Intro-->
 
  
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/aminexfrad"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/aminexfrad"></a>
-
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <a href="https://github.com/aminexfrad"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/aminexfrad"></a>
 
 
 <a href="https://github.com/aminexfrad">   
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
 </a>
 
-
 ### Congratulations you found me
 
 - 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
 - 📚 I’m currently learning **JAVA , REACT** 😅
 - 💪🏼 Future Goals: Learn more technologies, Never stop creating new ideas.
-
-
-
 <!--Contact-->
 
 ### Contact me:
@@ -52,9 +28,6 @@
   <a href="mailto:frad.amine@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://api.whatsapp.com/send?phone=+21629070679&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a> 
 </p>
-
-
-
 
 <!--Skills-->
 
